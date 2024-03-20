@@ -1,0 +1,15 @@
+{
+  "explorer.sortOrder": "default",
+  "explorer.autoReveal": true,
+  "explorer.expandSingleFolderWorkspaces": false,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true
+  },
+  "workbench.editor.navigationScope": "default",
+  "explorer.compactFolders": false
+}
